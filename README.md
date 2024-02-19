@@ -29,8 +29,16 @@ I do not own this data. I merely found it from the Tableau website. All credits 
   
   But a discount of 10% to 20% is the best solution.
 # Notebook
+
   Link: https://www.kaggle.com/code/offwitt0/exploratory-data-analysis-for-superstore
+  
 
 ![1](https://github.com/offwitt0/Analysing-Sales-In-Superstore/assets/81443480/14743296-cbdc-4c4a-a1d8-82b00e31f7e5)
+
+![2](https://github.com/offwitt0/Analysing-Sales-In-Superstore/assets/81443480/1954830a-5e33-4d35-b5eb-8644f94e7ffc)
+
+![3](https://github.com/offwitt0/Analysing-Sales-In-Superstore/assets/81443480/61f33a35-5d70-4cfa-9b1d-e0ea4e66d029)
+
+
 
 © offwitt0
