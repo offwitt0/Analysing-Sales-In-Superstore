@@ -10,13 +10,20 @@ Go crazy with the dataset, but also make sure to provide some business insights 
 I do not own this data. I merely found it from the Tableau website. All credits to the original authors/creators. For educational purposes only.
 
 # Questions
-  •	What are the top selling products in the superstore?
-  •	What is the sales trend over time (monthly, yearly)?
-  •	Which category of products generates the highest revenue and profit?
-  •	Which region generates the most sales?
-  •	What is the impact of discounts and promotions on sales?
-  •	What is the average profit margin for each product category?
-  •	Which sub-category of products has the highest demand?
+  1 •	What are the top selling products in the superstore?
+  
+  2 •	What is the sales trend over time (monthly, yearly)?
+  
+  3 •	Which category of products generates the highest revenue and profit?
+  
+  4 •	Which region generates the most sales?
+  
+  5 •	What is the impact of discounts and promotions on sales?
+  
+  6 •	What is the average profit margin for each product category?
+  
+  7 •	Which sub-category of products has the highest demand?
+  
 # Insights
   The best sales are when the discount is 50% but this is non-profitability.
   But a discount of 10% to 20% is the best solution.
