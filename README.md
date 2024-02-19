@@ -33,7 +33,6 @@ Profit => Profit/Loss incurred.
 
 I do not own this data. I merely found it from the Tableau website. All credits to the original authors/creators. For educational purposes only.
 
-
 # Questions
   •	What are the top selling products in the superstore?
   •	What is the sales trend over time (monthly, yearly)?
@@ -48,5 +47,6 @@ I do not own this data. I merely found it from the Tableau website. All credits 
 # Notebook
   Link: https://www.kaggle.com/code/offwitt0/exploratory-data-analysis-for-superstore
 
+![1](https://github.com/offwitt0/Analysing-Sales-In-Superstore/assets/81443480/14743296-cbdc-4c4a-a1d8-82b00e31f7e5)
 
 © offwitt0
