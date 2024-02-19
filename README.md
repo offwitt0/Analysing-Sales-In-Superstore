@@ -26,6 +26,7 @@ I do not own this data. I merely found it from the Tableau website. All credits 
   
 # Insights
   The best sales are when the discount is 50% but this is non-profitability.
+  
   But a discount of 10% to 20% is the best solution.
 # Notebook
   Link: https://www.kaggle.com/code/offwitt0/exploratory-data-analysis-for-superstore
